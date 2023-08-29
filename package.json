@@ -3,11 +3,36 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@syncfusion/ej2-base": "22.2.9",
+    "@syncfusion/ej2-buttons": "22.2.9",
+    "@syncfusion/ej2-data": "22.2.5",
+    "@syncfusion/ej2-documenteditor": "22.2.9",
+    "@syncfusion/ej2-icons": "22.2.5",
+    "@syncfusion/ej2-inputs": "22.2.9",
+    "@syncfusion/ej2-lists": "22.2.9",
+    "@syncfusion/ej2-navigations": "22.2.8",
+    "@syncfusion/ej2-pivotview": "22.2.9",
+    "@syncfusion/ej2-popups": "22.2.9",
+    "@syncfusion/ej2-react-base": "22.2.5",
+    "@syncfusion/ej2-react-buttons": "^22.2.9",
+    "@syncfusion/ej2-react-calendars": "^22.2.10",
+    "@syncfusion/ej2-react-dropdowns": "^22.2.10",
+    "@syncfusion/ej2-react-inputs": "^22.2.9",
+    "@syncfusion/ej2-react-navigations": "22.2.8",
+    "@syncfusion/ej2-react-schedule": "22.2.8",
+    "@syncfusion/ej2-schedule": "22.2.8",
+    "@syncfusion/ej2-splitbuttons": "22.2.8",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "framer-motion": "^10.16.1",
+    "moment": "^2.29.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
@@ -34,5 +59,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
   }
 }
